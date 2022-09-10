@@ -1,0 +1,93 @@
+[
+  {
+    "name": "c",
+    "displayName": "C",
+    "color": "red",
+    "framework": [{}],
+    "toolings": [{}]
+  },
+  {
+    "name": "cpp",
+    "displayName": "C++",
+    "color": "red",
+    "framework": [{}],
+    "toolings": [{}]
+  },
+  {
+    "name": "csharp",
+    "displayName": "C#",
+    "color": "red",
+    "framework": [{}],
+    "toolings": [{}]
+  },
+  {
+    "name": "go",
+    "displayName": "Go",
+    "color": "red",
+    "framework": [{}],
+    "toolings": [{}]
+  },
+  {
+    "name": "java",
+    "displayName": "Java",
+    "color": "red",
+    "framework": [{}],
+    "toolings": [{}]
+  },
+  {
+    "name": "javascript",
+    "displayName": "JavaScript",
+    "color": "red",
+    "framework": [{}],
+    "toolings": [{}]
+  },
+  {
+    "name": "kotlin",
+    "displayName": "Kotlin",
+    "color": "red",
+    "framework": [{}],
+    "toolings": [{}]
+  },
+  {
+    "name": "php",
+    "displayName": "PHP",
+    "color": "red",
+    "framework": [{}],
+    "toolings": [{}]
+  },
+  {
+    "name": "python",
+    "displayName": "Python",
+    "color": "red",
+    "framework": [{}],
+    "toolings": [{}]
+  },
+  {
+    "name": "ruby",
+    "displayName": "Ruby",
+    "color": "red",
+    "framework": [{}],
+    "toolings": [{}]
+  },
+  {
+    "name": "rust",
+    "displayName": "Rust",
+    "color": "red",
+    "framework": [{}],
+    "toolings": [{}]
+  },
+  {
+    "name": "swift",
+    "displayName": "Swift",
+    "color": "red",
+    "framework": [{}],
+    "toolings": [{}]
+  },
+  {
+    "name": "typescript",
+    "displayName": "TypeScript",
+    "color": "red",
+    "framework": [{}],
+    "toolings": [{}]
+  }
+]
